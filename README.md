@@ -1,6 +1,10 @@
 # Bitstory's HRRR 
 A CLI to collect weather forecats from NWS's HRRR model. This model provides hourly forecasts for the continential US with high resolution. Forecasts can be collected based upon lat/lon coordinates.
 
+
+The image below is an example of the array of temperature values from the HRRR model with a test location centered on Cape Cod, MA.
+![HRRR](hrrr_lat_lon_proof_cape_cod.png)
+
 # Usage:
 ## Install the dependencies
 ```
